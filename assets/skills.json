@@ -1,0 +1,60 @@
+[ 
+  {
+    "judul":"HTML",
+    "api":"HTML",
+    "img":"assets/images/skills/html.png"
+  },{
+    "judul":"CSS",
+    "api":"CSS",
+    "img":"assets/images/skills/css.png"
+  },{
+    "judul":"Javascript",
+    "api":"JavaScript",
+    "img":"assets/images/skills/js.png"
+  },{
+    "judul":"React Js",
+    "api":"React (JavaScript library)",
+    "img":"assets/images/skills/react.svg"
+  },{
+    "judul":"Bootstrap",
+    "api":"Bootstrap (front-end framework)",
+    "img":"assets/images/skills/bootstrap.svg"
+  },{
+    "judul":"Jquery",
+    "api":"JQuery",
+    "img":"assets/images/skills/jquery.svg"
+  },{
+    "judul":"PHP",
+    "api":"PHP",
+    "img":"assets/images/skills/php.svg"
+  },{
+    "judul":"C++",
+    "api":"C++",
+    "img":"assets/images/skills/c++.svg"
+  },{
+    "judul":"Figma",
+    "api":"Figma (software)",
+    "img":"assets/images/skills/figma.svg"
+  },{
+    "judul":"MySQL",
+    "api":"MySQL",
+    "img":"assets/images/skills/mysql.png"
+  },{
+    "judul":"Node Js",
+    "api":"Node.js",
+    "img":"assets/images/skills/nodejs.svg"
+  },{
+    "judul":"Git",
+    "api":"Git",
+    "img":"assets/images/skills/git.svg"
+  },{
+    "judul":"Github",
+    "api":"GitHub",
+    "img":"assets/images/skills/github.png"
+  } ,{
+    "judul":"VScode",
+    "api":"Visual Studio Code",
+    "img":"assets/images/skills/vscode.svg"
+  } 
+
+]
