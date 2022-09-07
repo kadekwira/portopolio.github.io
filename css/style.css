@@ -920,6 +920,11 @@ footer{
   }
   #education .desc{ 
     font-size: 14px;
+    width:80%;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
   }
   .cards .card1{
     display: flex;
@@ -1172,6 +1177,7 @@ footer{
   .title_project i{
     font-size:1.5rem;
   }
+
   #projects{
     min-height: fit-content;
   }
