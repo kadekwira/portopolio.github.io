@@ -16,9 +16,17 @@
     "api":"React (JavaScript library)",
     "img":"assets/images/skills/react.svg"
   },{
+    "judul":"Next Js",
+    "api":"Next Js",
+    "img":"assets/images/skills/nextjs.png"
+  },{
     "judul":"Bootstrap",
     "api":"Bootstrap (front-end framework)",
     "img":"assets/images/skills/bootstrap.svg"
+  },{
+    "judul":"Tailwind",
+    "api":"Tailwind (front-end framework)",
+    "img":"assets/images/skills/tailwind.png"
   },{
     "judul":"Jquery",
     "api":"JQuery",
@@ -27,6 +35,16 @@
     "judul":"PHP",
     "api":"PHP",
     "img":"assets/images/skills/php.svg"
+  },
+  {
+    "judul":"Laravel",
+    "api":"Laravel",
+    "img":"assets/images/skills/laravel.png"
+  },
+  {
+    "judul":"Codeigniter",
+    "api":"Codeigniter",
+    "img":"assets/images/skills/codeigniter.svg"
   },{
     "judul":"C++",
     "api":"C++",

@@ -1,5 +1,5 @@
 let typed = new Typed('.text',{
-  strings:["Mahasiswa ITB STIKOM Bali","Junior Web Developer"],
+  strings:["graduated with a Bachelor's degree in Computer Science from ITB STIKOM Bali.","Junior Web Developer"],
   typeSpeed:50,
   backSpeed:50,
   loop:true
